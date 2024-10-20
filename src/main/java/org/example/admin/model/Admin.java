@@ -1,4 +1,4 @@
-package org.example.admin.mode;
+package org.example.admin.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
